@@ -1,0 +1,12 @@
+.what-img img {
+  height: 335px;
+}
+
+.trending-bottom img {
+  height: 145px;
+}
+
+main {
+  direction: rtl;
+  text-align: right;
+}
